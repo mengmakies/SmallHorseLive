@@ -2,9 +2,9 @@
 - 环信IM http://www.easemob.com/
 - Ucloud的直播云ULive  https://www.ucloud.cn/site/product/ulive.html
 
-![](http://upload-images.jianshu.io/upload_images/2326566-93ac489aae629556.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/620)
+![](https://github.com/mengmakies/SmallHorseLive/blob/master/screenshot1.png)
 
-![](http://upload-images.jianshu.io/upload_images/2326566-b4344c2e69eef456.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/620)
+![](https://github.com/mengmakies/SmallHorseLive/blob/master/screenshot2.png)
 
 
 音视频直播的两个专业术语：推流、拉流。
