@@ -1,0 +1,12 @@
+#ifndef UCloudGPUImageColorConversion_h
+#define UCloudGPUImageColorConversion_h
+
+extern GLfloat *kUCloudColorConversion601;
+extern GLfloat *kUCloudColorConversion601FullRange;
+extern GLfloat *kUCloudColorConversion709;
+extern NSString *const kUCloudGPUImageYUVVideoRangeConversionForRGFragmentShaderString;
+extern NSString *const kUCloudGPUImageYUVFullRangeConversionForLAFragmentShaderString;
+extern NSString *const kUCloudGPUImageYUVVideoRangeConversionForLAFragmentShaderString;
+
+
+#endif /* UCloudGPUImageColorConversion_h */
