@@ -27,6 +27,7 @@
 #import "ChatUIDefine.h"
 #import "UCloudDefine.h"
 
-#define DEMO_CALL 0
+// 1 开启语音通话功能（要手动加上CallViewController文件）； 0  关闭语音通话功能（要手动删除CallViewController文件）
+#define DEMO_CALL 1
 
 #endif

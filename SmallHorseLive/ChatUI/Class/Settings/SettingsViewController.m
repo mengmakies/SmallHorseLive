@@ -18,7 +18,7 @@
 #import "DebugViewController.h"
 #import "EditNicknameViewController.h"
 #import "UserProfileEditViewController.h"
-//#import "CallViewController.h"
+#import "CallViewController.h"
 #import "RedpacketViewControl.h"
 
 //#import "BackupViewController.h"
@@ -281,7 +281,7 @@
             int val;
             if ([scan scanInt:&val] && [scan isAtEnd]) {
                 if ([nameTextField.text intValue] >= 150 && [nameTextField.text intValue] <= 1000) {
-//                    [CallViewController saveBitrate:nameTextField.text];
+                    [CallViewController saveBitrate:nameTextField.text];
                     flag = NO;
                 }
             }
