@@ -20,7 +20,6 @@
 #import "UserProfileEditViewController.h"
 //#import "CallViewController.h"
 #import "RedpacketViewControl.h"
-#import "TestViewController.h"
 
 //#import "BackupViewController.h"
 
@@ -251,10 +250,8 @@
     }
     else if (indexPath.row == 3)
     {
-        TestViewController *vc = [[TestViewController alloc] init];
-        [self.navigationController pushViewController:vc animated:YES];
-//        DebugViewController *debugController = [[DebugViewController alloc] initWithStyle:UITableViewStylePlain];
-//        [self.navigationController pushViewController:debugController animated:YES];
+        DebugViewController *debugController = [[DebugViewController alloc] initWithStyle:UITableViewStylePlain];
+        [self.navigationController pushViewController:debugController animated:YES];
     } else if (indexPath.row == 5) {
         EditNicknameViewController *editName = [[EditNicknameViewController alloc] initWithNibName:nil bundle:nil];
         [self.navigationController pushViewController:editName animated:YES];

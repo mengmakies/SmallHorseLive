@@ -12,7 +12,7 @@
 #warning "This project uses features only available in iOS SDK 3.0 and later."
 #endif
 
-#define REDPACKET_AVALABLE //注释，即可禁用红包功能
+//#define REDPACKET_AVALABLE //注释，即可禁用红包功能
 
 #ifdef __OBJC__
 #import <UIKit/UIKit.h>

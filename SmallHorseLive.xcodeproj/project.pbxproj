@@ -378,8 +378,6 @@
 		9A6376B51D193E3800608D11 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9A6376A41D193E3800608D11 /* Main.storyboard */; };
 		9A6376B81D193E3800608D11 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = 9A6376AA1D193E3800608D11 /* Info.plist */; };
 		9A6376B91D193E3800608D11 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A6376AB1D193E3800608D11 /* main.m */; };
-		9A6376BA1D193E3800608D11 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A6376AD1D193E3800608D11 /* TestViewController.m */; };
-		9A6376BB1D193E3800608D11 /* TestViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9A6376AE1D193E3800608D11 /* TestViewController.xib */; };
 		9A6376BC1D193E3800608D11 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A6376B11D193E3800608D11 /* ViewController.m */; };
 		9A6376C11D193F9700608D11 /* UcCameraView.m in Sources */ = {isa = PBXBuildFile; fileRef = 9A6376BF1D193F9700608D11 /* UcCameraView.m */; };
 		9A6376C21D193F9700608D11 /* UcCameraView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 9A6376C01D193F9700608D11 /* UcCameraView.xib */; };
@@ -1213,9 +1211,6 @@
 		9A6376A51D193E3800608D11 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9A6376AA1D193E3800608D11 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = Class/Info.plist; sourceTree = "<group>"; };
 		9A6376AB1D193E3800608D11 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = Class/main.m; sourceTree = "<group>"; };
-		9A6376AC1D193E3800608D11 /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
-		9A6376AD1D193E3800608D11 /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
-		9A6376AE1D193E3800608D11 /* TestViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = TestViewController.xib; sourceTree = "<group>"; };
 		9A6376AF1D193E3800608D11 /* SmallHorseLive-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "SmallHorseLive-Prefix.pch"; path = "Class/SmallHorseLive-Prefix.pch"; sourceTree = "<group>"; };
 		9A6376B01D193E3800608D11 /* ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		9A6376B11D193E3800608D11 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
@@ -2933,9 +2928,6 @@
 				9A6376A01D193E3800608D11 /* AppDelegate.m */,
 				9A6376A21D193E3800608D11 /* LaunchScreen.storyboard */,
 				9A6376A41D193E3800608D11 /* Main.storyboard */,
-				9A6376AC1D193E3800608D11 /* TestViewController.h */,
-				9A6376AD1D193E3800608D11 /* TestViewController.m */,
-				9A6376AE1D193E3800608D11 /* TestViewController.xib */,
 				9A6376B01D193E3800608D11 /* ViewController.h */,
 				9A6376B11D193E3800608D11 /* ViewController.m */,
 				9A6015AB1D21137500A6CCF9 /* LiveGroupTableViewCell.h */,
@@ -3097,7 +3089,6 @@
 				9A6375201D192C2800608D11 /* MWPhotoBrowser.bundle in Resources */,
 				9A6375E51D192C2800608D11 /* icon_029.gif in Resources */,
 				9A6375F01D192C2800608D11 /* group_joinpublicgroup@2x.png in Resources */,
-				9A6376BB1D193E3800608D11 /* TestViewController.xib in Resources */,
 				9A6375B81D192C2800608D11 /* chat_location_detail_disclosureHL@2x.png in Resources */,
 				9A49669D1D1A760E001DF611 /* 80.png in Resources */,
 				9A6375F11D192C2800608D11 /* group_participant_add@2x.png in Resources */,
@@ -3202,7 +3193,6 @@
 				9A6375741D192C2800608D11 /* UIViewController+HUD.m in Sources */,
 				9A63752A1D192C2800608D11 /* EaseChineseToPinyin.m in Sources */,
 				9A6375281D192C2800608D11 /* UIViewController+DismissKeyboard.m in Sources */,
-				9A6376BA1D193E3800608D11 /* TestViewController.m in Sources */,
 				9A6375481D192C2800608D11 /* EaseTextView.m in Sources */,
 				9A6374FD1D192C2800608D11 /* MWPhoto.m in Sources */,
 				9A6375211D192C2800608D11 /* EaseSDKHelper.m in Sources */,
