@@ -3504,7 +3504,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "/Users/majunbin/Desktop/TestCode/SmallHorseLive/SmallHorseLive/Class/SmallHorseLive-Prefix.pch";
+				GCC_PREFIX_HEADER = "$(SRCROOT)/SmallHorseLive/Class/SmallHorseLive-Prefix.pch";
 				INFOPLIST_FILE = "$(SRCROOT)/SmallHorseLive/Class/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -3533,7 +3533,7 @@
 				CLANG_ENABLE_OBJC_ARC = YES;
 				ENABLE_BITCODE = NO;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "/Users/majunbin/Desktop/TestCode/SmallHorseLive/SmallHorseLive/Class/SmallHorseLive-Prefix.pch";
+				GCC_PREFIX_HEADER = "$(SRCROOT)/SmallHorseLive/Class/SmallHorseLive-Prefix.pch";
 				INFOPLIST_FILE = "$(SRCROOT)/SmallHorseLive/Class/Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
