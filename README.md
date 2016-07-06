@@ -13,6 +13,8 @@
 
 **注意：**以上为个人理解，专业解释需要大家搜索百度或必应~!~
 
+![](https://raw.githubusercontent.com/mengmakies/SmallHorseLive/master/screenshot3.png)
+
 其次，做这个demo过程中有2个坑，小马都帮大家踩过了：
 >- 环信 iOS HyphenateFullSDK（包含**实时通话**功能）与UCloud的直播云SDK会冲突，推流的时候直接导致视频“卡住”不动。所以只能集成环信HyphenateSDK （不包含**实时通话**功能）；
 - UCloud官方明确表明[直播云SDK最低支持IOS7.0](https://docs.ucloud.cn/upd-docs/ulive/ULive_IOS_SDK.html)，可是经小马实测，IOS7.0.4无法推流（但是拉流正常），被这个坑了4天，所以建议大家真机测试时，IOS系统版本至少要8.0以上。

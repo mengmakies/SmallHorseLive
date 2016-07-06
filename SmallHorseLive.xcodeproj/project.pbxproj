@@ -3518,8 +3518,6 @@
 					"$(PROJECT_DIR)/SmallHorseLive/ChatSDK/HyphenateFullSDK/lib",
 					"$(PROJECT_DIR)/SmallHorseLive/ChatSDK/RedpacketSDK/RedpacketStaticLib/lib",
 					"$(PROJECT_DIR)/SmallHorseLive/ChatUI/3rdparty/UMeng",
-					"$(PROJECT_DIR)/SmallHorseLive/ChatSDK/HyphenateSDK/lib/3rdparty",
-					"$(PROJECT_DIR)/SmallHorseLive/ChatSDK/HyphenateSDK/lib",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = net.c3dn.app.SmallHorseLive;
@@ -3549,8 +3547,6 @@
 					"$(PROJECT_DIR)/SmallHorseLive/ChatSDK/HyphenateFullSDK/lib",
 					"$(PROJECT_DIR)/SmallHorseLive/ChatSDK/RedpacketSDK/RedpacketStaticLib/lib",
 					"$(PROJECT_DIR)/SmallHorseLive/ChatUI/3rdparty/UMeng",
-					"$(PROJECT_DIR)/SmallHorseLive/ChatSDK/HyphenateSDK/lib/3rdparty",
-					"$(PROJECT_DIR)/SmallHorseLive/ChatSDK/HyphenateSDK/lib",
 				);
 				OTHER_LDFLAGS = "-ObjC";
 				PRODUCT_BUNDLE_IDENTIFIER = net.c3dn.app.SmallHorseLive;
