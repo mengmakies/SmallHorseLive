@@ -81,6 +81,7 @@
     [CameraServer server].bitrate = 3.05;
     
     NSString *path = RecordDomain(_StreamID);
+    NSLog(@"直播地址：%@", path);// 可以在http://www.cutv.com/demo/live_test.swf里打开直播地址测试是否成功
     
     __weak UcCameraView *weakSelf = self;
     
